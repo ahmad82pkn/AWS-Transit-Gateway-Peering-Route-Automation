@@ -1,4 +1,4 @@
-# AWs-Transit-Gateway-Peering-Route-Automation
+# AWS-Transit-Gateway-Peering-Route-Automation
 AWS TGW Transit Gateway peering Route Automation
 
 ########HOW TO USE#######
